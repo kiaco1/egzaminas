@@ -63,3 +63,20 @@ form {
     font-size: 2em;
   }
 }
+
+.style{
+  width: 65%;
+  margin: 0;
+  padding: 20px;
+  outline: 0;
+  border: 0;
+  font-size: 1.1em;
+  background-color: white;
+}
+
+#output {
+  max-width: 80%;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
