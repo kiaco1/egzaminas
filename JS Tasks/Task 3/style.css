@@ -59,3 +59,7 @@
   border-radius: 5px;
   background-color: #fff;
 }
+
+.users {
+  border: solid black 1px;
+}

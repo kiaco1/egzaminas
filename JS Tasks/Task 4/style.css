@@ -27,3 +27,8 @@
   margin-top: 50px;
   color: #333;
 }
+
+.users {
+  border: solid black 1px;
+  margin: 0.5rem;
+}
